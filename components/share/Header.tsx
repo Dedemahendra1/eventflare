@@ -12,7 +12,7 @@ const Header = () => {
       <div className='wrapper flex items-center justify-between'>
         <Link href='/' className='w-36'>
           <Image 
-            src="/assets/images/logo.png"
+            src="/assets/images/Logo.png"
             width={128}
             height={38}
             alt="EventFlare logo"

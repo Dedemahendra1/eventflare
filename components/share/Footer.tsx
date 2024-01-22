@@ -13,8 +13,8 @@ const Footer = () => {
             <div className="text-blue-950 text-2xl font-medium">
             <Link href='/'>
                <Image 
-                 src="/assets/images/logo.png"
-                 alt="logo"
+                 src="/assets/images/Logo.png"
+                 alt="logo-footer"
                  width={128}
                  height={38}
                 />
